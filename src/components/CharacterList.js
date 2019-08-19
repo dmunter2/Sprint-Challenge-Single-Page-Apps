@@ -19,7 +19,7 @@ export default function CharacterList() {
 
   return (
     <section className="character-list grid-view">
-      {characters.map(() => {
+      {characters.map((data) => {
         return (
           <CharacterCard 
             img={data.image} 
