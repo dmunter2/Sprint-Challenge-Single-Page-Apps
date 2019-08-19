@@ -8,6 +8,8 @@ border-radius: 10px;
 width: 40%;
 margin 5%;
 padding: 1% 0% 0 3%;
+box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+
 `
 const NAME2 = styled.h2`
 margin: 0;

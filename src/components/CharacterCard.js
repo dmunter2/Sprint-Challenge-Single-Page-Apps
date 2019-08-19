@@ -6,6 +6,7 @@ border: 3px solid lightgrey;
 border-radius: 10px;
 margin: 2% 0 3% 0;
 padding-bottom: 10px;
+box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 `
 const IMG = styled.img`
 border-radius: 9px 9px 0px 0px
