@@ -18,7 +18,7 @@ export default function LocationList() {
     }, []);
 
     return (
-        <section>
+        <section className='grid-view'>
             {locations.map((data) => {
                 return (
                     <LocationCard

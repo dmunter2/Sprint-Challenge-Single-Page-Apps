@@ -14,11 +14,11 @@ export default function TabNav() {
             <h2>Character</h2>
         </NavLink>
 
-        <NavLink to='locations'>
+        <NavLink to='/locations'>
             <h2>Locations</h2>
         </NavLink>
 
-        <NavLink to='episodes'>
+        <NavLink to='/episodes'>
             <h2>Episodes</h2>
         </NavLink>
     </div>
