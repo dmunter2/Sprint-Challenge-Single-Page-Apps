@@ -10,19 +10,19 @@ export default function TabNav() {
     return (
     <div className='tab-nav'>
         <NavLink className='h2s' to='/'>
-            <h2>HomePage</h2>
+            <h4>HomePage</h4>
         </NavLink>
 
         <NavLink className='h2s' to='/characters'>
-            <h2>Character</h2>
+            <h4>Character</h4>
         </NavLink>
 
         <NavLink className='h2s' to='/locations'>
-            <h2>Locations</h2>
+            <h4>Locations</h4>
         </NavLink>
 
         <NavLink className='h2s' to='/episodes'>
-            <h2>Episodes</h2>
+            <h4>Episodes</h4>
         </NavLink>
     </div>
     )
