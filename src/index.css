@@ -36,4 +36,23 @@ main {
 
 header h1 {
   text-align: center;
+  margin-bottom: 3%;
+}
+
+.tab-nav {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-bottom: 2px solid lightgrey;
+
+}
+
+.h2s{
+  margin-right: 4%;
+  margin-left: 2%;
+  margin-bottom: 1%;
+}
+.h2s h4{
+  color: black;
 }
